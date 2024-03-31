@@ -1,5 +1,5 @@
 Good to see you here👋 Let me introduce myself!
-<b> <h3> I'm Ankit Khanal 🙍‍♂️</h3></b> <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0"></iframe>
+<b> <h3> I'm Ankit Khanal 🙍‍♂️</h3></b> 
 
 
 I am from Nepal currently studying Computer Science and Information Technology (BSc CSIT)📚 <br/>
