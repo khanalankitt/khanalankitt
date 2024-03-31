@@ -4,7 +4,7 @@ My name is <b>Ankit Khanal.</b>🙍‍♂️ <br/>
 I am from Nepal currently studying Computer Science and Information Technology (BSc CSIT)📚 <br/>
 I have huge interest in web/mobile development as well as coding🧑‍💻 <br/>
 
-<b>Skills</b>
+<b>Skills</b> <br>
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png
 "  height="200px" width="200px">
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png
