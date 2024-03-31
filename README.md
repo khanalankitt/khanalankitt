@@ -1,5 +1,6 @@
 Good to see you here👋 Let me introduce myself!
-<b> <h3> I'm Ankit Khanal 🙍‍♂️</h3></b> 
+<b> <h3> I'm Ankit Khanal 🙍‍♂️</h3></b> ![image](https://github.com/khanalankitt/khanalankitt/assets/72298204/e94c5fb2-2552-412c-8c38-c4b9bfa50c61)
+
 
 I am from Nepal currently studying Computer Science and Information Technology (BSc CSIT)📚 <br/>
 I have huge interest in web/mobile development as well as coding🧑‍💻 <br/> 
