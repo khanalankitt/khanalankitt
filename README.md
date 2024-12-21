@@ -20,5 +20,6 @@ I have a huge interest in web/mobile development 🧑‍💻
    <img src="https://www.rapidbrains.com/assets/img/services/rapidbrains-react-native.webp" alt="React Native" height="60" width="60">
    <img src="https://www.netgen.co.za/wp-content/uploads/2023/05/SQL-Database.png" alt="SQL" height="60" width="60">
    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="60" width="60">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2uEqD0C38fQX4PSzW1YOQuIBaGR06NPNIyQ&s" alt="Git" height="60" width="60">
 </div>
 <b><h3>Explore my projects :)</h3></b>
