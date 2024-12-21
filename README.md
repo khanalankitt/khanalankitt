@@ -1,9 +1,9 @@
 <h1>Hello!</h1>
  <h2><b>I'm<i> Ankit Khanal </i></b></h2>
-<h3>
+<h4>
 Currently studying Computer Science (B.Sc. CSIT) 📚<br>
 I have a huge interest in web/mobile development 🧑‍💻
-</h3>
+</h4>
 <b><h3>Skills 💪</h3></b>
 
 <div>
