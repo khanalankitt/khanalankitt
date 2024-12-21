@@ -2,7 +2,7 @@
 <b> <h3>I'm Ankit Khanal 🙍‍♂️</h3></b>
 
 
-I am from Nepal, currently studying Computer Science and Information Technology (B.Sc. CSIT) 📚
+I am from Nepal, currently studying Computer Science and Information Technology (B.Sc. CSIT) 📚<br>
 I have a huge interest in web/mobile development 🧑‍💻
 
 <b><h3>Skills 💪</h3></b>
