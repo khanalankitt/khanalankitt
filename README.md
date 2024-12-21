@@ -1,5 +1,5 @@
 <h1>Hello!</h1>
-<b> <h2>I'm<i> Ankit Khanal </i></h2></b>
+ <h2><b>I'm<i> Ankit Khanal </i></b></h2>
 <h3>
 Currently studying Computer Science (B.Sc. CSIT) 📚<br>
 I have a huge interest in web/mobile development 🧑‍💻
