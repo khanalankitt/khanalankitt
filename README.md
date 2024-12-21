@@ -4,7 +4,7 @@
 Currently studying Computer Science (B.Sc. CSIT) 📚<br>
 I have a huge interest in web/mobile development 🧑‍💻
 </h4>
-<b><h3>Skills 💪</h3></b>
+<h1>Skills 💪</h1>
 
 <div>
    <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" alt="JavaScript" height="60" width="60"> 
