@@ -10,7 +10,7 @@ I have a huge interest in web/mobile development 🧑‍💻
    <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" alt="JavaScript" height="60" width="60"> 
    <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React" height="60" width="60">
    <img src="https://imgs.search.brave.com/zQlJGPdc231GeHYIoOArGAR0L9wfuKQiDTuX4_YOdvc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dC5icmFuZGZldGNo/LmlvL2lkMmFsdWUt/cngvaWRHdThJSkJk/My5zdmc_dXBkYXRl/ZD0xNzE0NTU2MjIx/Mjky"    alt="Next.js" height="60" width="60"> 
-   <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" height="60" width="60"> 
+   <img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png" alt="Node.js" height="60" width="60"> 
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDneBGnQL7E9hZDwztRO1GfQcCj1FqRrhBw&s" alt="Express JS" height="60" width="60">
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="60" width="60">
    <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" height="60" width="60"> 
