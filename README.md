@@ -16,6 +16,7 @@ I have a huge interest in web/mobile development 🧑‍💻
    <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" height="60" width="60"> 
    <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" alt="MongoDB" height="60" width="60">
    <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="Firebase" height="60" width="60">
+   <img src="https://supabase.com/dashboard/img/supabase-logo.svg" alt="Supabase" height="60" width="60">
    <img src="https://www.netgen.co.za/wp-content/uploads/2023/05/SQL-Database.png" alt="SQL" height="60" width="60">
    <img src="https://www.rapidbrains.com/assets/img/services/rapidbrains-react-native.webp" alt="React Native" height="60" width="60">
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2uEqD0C38fQX4PSzW1YOQuIBaGR06NPNIyQ&s" alt="Expo" height="60" width="60">
