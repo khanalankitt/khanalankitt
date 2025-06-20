@@ -13,7 +13,7 @@ I have a huge interest in web/mobile development 🧑‍💻
    <img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png" alt="Node.js" height="60" width="60"> 
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDneBGnQL7E9hZDwztRO1GfQcCj1FqRrhBw&s" alt="Express JS" height="60" width="60">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="TypeScript" height="60" width="60">
-   <img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png" alt="Redux" height="60" width="60">
+   <img src="https://logowik.com/content/uploads/images/redux.jpg" alt="Redux" height="60" width="60">
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="60" width="60">
    <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" height="60" width="60"> 
    <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" alt="MongoDB" height="60" width="60">
