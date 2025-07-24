@@ -10,7 +10,7 @@ I have a huge interest in web/mobile development 🧑‍💻
    <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" alt="JavaScript" height="60" width="60"> 
    <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React" height="60" width="60">
    <img src="https://imgs.search.brave.com/zQlJGPdc231GeHYIoOArGAR0L9wfuKQiDTuX4_YOdvc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dC5icmFuZGZldGNo/LmlvL2lkMmFsdWUt/cngvaWRHdThJSkJk/My5zdmc_dXBkYXRl/ZD0xNzE0NTU2MjIx/Mjky"    alt="Next.js" height="60" width="60"> 
-   <img src="https://images.seeklogo.com/logo-png/27/1/node-js-logo-png_seeklogo-273749.png" alt="Node.js" height="60" width="60"> 
+   <img src="https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png" alt="Node.js" height="60" width="60"> 
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDneBGnQL7E9hZDwztRO1GfQcCj1FqRrhBw&s" alt="Express JS" height="60" width="60">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="TypeScript" height="60" width="60">
    <img src="https://ih1.redbubble.net/image.370541778.7231/st,small,845x845-pad,1000x1000,f8f8f8.u20.jpg" alt="Redux" height="60" width="60">
