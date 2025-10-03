@@ -1,27 +1,16 @@
-<h1>Hello!</h1>
- <h2><b>I'm<i> Ankit Khanal </i></b></h2>
-<h4>
-Currently studying Computer Science (B.Sc. CSIT) 📚<br>
-I have a huge interest in web/mobile development 🧑‍💻
-</h4>
-<h2>Skills 💪</h2>
+# 💫 About Me:
+Hello!<br>I'm Ankit Khanal<br>Currently studying Computer Science (B.Sc. CSIT) 📚<br>I have a huge interest in web/mobile development 🧑‍💻
 
-<div>
-   <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" alt="JavaScript" height="60" width="60"> 
-   <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React" height="60" width="60">
-   <img src="https://imgs.search.brave.com/zQlJGPdc231GeHYIoOArGAR0L9wfuKQiDTuX4_YOdvc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dC5icmFuZGZldGNo/LmlvL2lkMmFsdWUt/cngvaWRHdThJSkJk/My5zdmc_dXBkYXRl/ZD0xNzE0NTU2MjIx/Mjky"    alt="Next.js" height="60" width="60"> 
-   <img src="https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png" alt="Node.js" height="60" width="60"> 
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDneBGnQL7E9hZDwztRO1GfQcCj1FqRrhBw&s" alt="Express JS" height="60" width="60">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="TypeScript" height="60" width="60">
-   <img src="https://ih1.redbubble.net/image.370541778.7231/st,small,845x845-pad,1000x1000,f8f8f8.u20.jpg" alt="Redux" height="60" width="60">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="60" width="60">
-   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" height="60" width="60"> 
-   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="MongoDB" height="60" width="60">
-   <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="Firebase" height="60" width="60">
-   <img src="https://supabase.com/dashboard/img/supabase-logo.svg" alt="Supabase" height="60" width="60">
-   <img src="https://www.netgen.co.za/wp-content/uploads/2023/05/SQL-Database.png" alt="SQL" height="60" width="60">
-   <img src="https://www.rapidbrains.com/assets/img/services/rapidbrains-react-native.webp" alt="React Native" height="60" width="60">
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2uEqD0C38fQX4PSzW1YOQuIBaGR06NPNIyQ&s" alt="Expo" height="60" width="60">
-   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="60" width="60">
-</div>
-<b><h3>Explore my projects :)</h3></b>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-khanal-58b3201b6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mail@khanalankit.com) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khanalankitt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=khanalankitt&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
